@@ -25,7 +25,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)&nbsp;
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge&logo=Seaborn&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/fastapi-109989.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/langchain-%23FFC83D.svg?style=for-the-badge&logoColor=black)&nbsp;
