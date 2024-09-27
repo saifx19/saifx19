@@ -8,6 +8,8 @@
   </a>
 </h1>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saifx19-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifx19)
+
 
 ## About Me:
 
@@ -32,7 +34,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-
-
-## Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-saifx19-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifx19)
 
