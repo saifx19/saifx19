@@ -4,20 +4,17 @@
 
 <h1 style="text-align: center; margin: 0;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=2000&pause=250&multiline=true&width=650&height=140&lines=Hello!;I'm+Saifur+Rahman" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=2000&pause=250&multiline=true&width=650&height=120&lines=Hello!;I'm+Saifur+Rahman" alt="Title GitHub Readme" />
   </a>
 </h1>
 
 
-
-# About Me:
+## About Me:
 
 **I'm a Python developer with a focus on deep learning, machine learning, and data science. As a self-directed individual with strong intellectual curiosity, I am always eager to learn and expand my knowledge.**
 
 
-
-
-# 💻 Skills:
+## 💻 Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
@@ -35,4 +32,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+
+
+## Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-saifx19-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifx19)
 
