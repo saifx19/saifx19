@@ -13,7 +13,7 @@
 
 ## About Me:
 
-***I'm a self-directed with a focus on Python programming, machine learning, and data science.***
+***I'm a self-directed techie with a focus on Python programming, machine learning, and data science.***
 
 
 ## 💻 Skills:
