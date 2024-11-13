@@ -13,7 +13,7 @@
 
 ## About Me:
 
-***I'm a Python developer with a focus on deep learning, machine learning, and data science. As a self-directed individual with strong intellectual curiosity, I am always eager to learn and explore new opportunities.***
+***I'm a self-directed with a focus on Python programming, machine learning, and data science.***
 
 
 ## 💻 Skills:
