@@ -1,5 +1,3 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaifx19&countColor=%23263759&style=default" alt="visitor_badge">
-
 
 
 <h1 style="text-align: center; margin: 0;">
