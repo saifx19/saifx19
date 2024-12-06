@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center; margin: 0;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=2000&pause=250&multiline=true&width=650&height=100&lines=Hello!;I'm+Saifur+Rahman" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&duration=2000&pause=250&multiline=true&width=650&height=75&lines=Hello!;I'm+Saifur+Rahman" alt="Title GitHub Readme" />
   </a>
 </h1>
 
